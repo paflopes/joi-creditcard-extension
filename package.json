@@ -1,6 +1,6 @@
 {
   "name": "joi-creditcard-extension",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Validate credit cards with Joi",
   "main": "lib/index.js",
   "repository": "https://github.com/paflopes/joi-creditcard-extension.git",

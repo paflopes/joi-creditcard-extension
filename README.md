@@ -3,6 +3,8 @@
 Joi extension for credit card validation
 
 [![CircleCI](https://circleci.com/gh/paflopes/joi-creditcard-extension.svg?style=svg)](https://circleci.com/gh/paflopes/joi-creditcard-extension)
+[![npm version](https://badge.fury.io/js/joi-creditcard-extension.svg)](https://badge.fury.io/js/joi-creditcard-extension)
+[![Known Vulnerabilities](https://snyk.io/test/github/paflopes/joi-creditcard-extension/badge.svg)](https://snyk.io/test/github/paflopes/joi-creditcard-extension)
 
 Lead Maintainer: [Phillipe Lopes](https://github.com/paflopes)
 

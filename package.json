@@ -20,7 +20,7 @@
     "mocha": "^3.5.0"
   },
   "peerDependencies": {
-    "joi": "^10.6.0"
+    "joi": "10.x.x"
   },
   "dependencies": {
     "card-validator": "^4.1.0",

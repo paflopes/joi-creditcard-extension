@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "card-validator": "^4.1.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.5"
   }
 }
